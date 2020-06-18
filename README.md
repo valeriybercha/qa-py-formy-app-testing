@@ -4,11 +4,11 @@ The entire framework is based on Page Object Model (POM) design pattern with sep
 
 ### Page Object Model (POM) structure:
 
-- [drivers]() - drivers (Chrome, Firefox) location directory
-- [Locators]() - locators directory
-- [Pages]() - project pages directory
-- [reports]() - HTML reports directory
-- [Tests]() - project tests directory
+- [drivers](https://github.com/valeriybercha/qa-py-formy-app-testing/tree/master/drivers) - drivers (Chrome, Firefox) location directory
+- [Locators](https://github.com/valeriybercha/qa-py-formy-app-testing/tree/master/Locators) - locators directory
+- [Pages](https://github.com/valeriybercha/qa-py-formy-app-testing/tree/master/Pages) - project pages directory
+- [reports](https://github.com/valeriybercha/qa-py-formy-app-testing/tree/master/reports) - HTML reports directory
+- [Tests](https://github.com/valeriybercha/qa-py-formy-app-testing/tree/master/Tests) - project tests directory
 
 ### Usage:
 To run all tests from the test suite use the allTestsRunner.py file from command prompt (cmd) with the following command:
